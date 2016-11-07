@@ -1,21 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace CalculatorTDDGit
 {
-    class Program
+    public class Calculator
     {
-        static void Main(string[] args)
+        public int Add(int fraction1, int fraction2)
         {
-            Console.Write("Hello");
-
-            Console.ReadKey();
+            return fraction1 + fraction2;
         }
     }
 
-    
+    public class Fraction
+    {
+
+    }
 }

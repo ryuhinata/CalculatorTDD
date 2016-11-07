@@ -1,6 +1,6 @@
 C:\Users\renaldy.widjaja39\Documents\Visual Studio 2013\Projects\CalculatorTDDGit\CalculatorTDDGit\CalculatorTDDGit\bin\Debug\CalculatorTDDGit.exe.config
 C:\Users\renaldy.widjaja39\Documents\Visual Studio 2013\Projects\CalculatorTDDGit\CalculatorTDDGit\CalculatorTDDGit\bin\Debug\CalculatorTDDGit.exe
 C:\Users\renaldy.widjaja39\Documents\Visual Studio 2013\Projects\CalculatorTDDGit\CalculatorTDDGit\CalculatorTDDGit\bin\Debug\CalculatorTDDGit.pdb
-C:\Users\renaldy.widjaja39\Documents\Visual Studio 2013\Projects\CalculatorTDDGit\CalculatorTDDGit\CalculatorTDDGit\obj\Debug\CalculatorTDDGit.csprojResolveAssemblyReference.cache
 C:\Users\renaldy.widjaja39\Documents\Visual Studio 2013\Projects\CalculatorTDDGit\CalculatorTDDGit\CalculatorTDDGit\obj\Debug\CalculatorTDDGit.exe
 C:\Users\renaldy.widjaja39\Documents\Visual Studio 2013\Projects\CalculatorTDDGit\CalculatorTDDGit\CalculatorTDDGit\obj\Debug\CalculatorTDDGit.pdb
+C:\Users\renaldy.widjaja39\Documents\Visual Studio 2013\Projects\CalculatorTDDGit\CalculatorTDDGit\CalculatorTDDGit\obj\Debug\CalculatorTDDGit.csprojResolveAssemblyReference.cache

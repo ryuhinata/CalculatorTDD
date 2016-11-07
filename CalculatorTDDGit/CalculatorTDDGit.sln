@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTDDGit", "CalculatorTDDGit\CalculatorTDDGit.csproj", "{08742482-08BD-47C7-B9C9-C959EB101AA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTDDGit.UnitTest", "CalculatorTDDGit.UnitTest\CalculatorTDDGit.UnitTest.csproj", "{7B17BEED-703A-4704-922B-0C27F19E06B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{08742482-08BD-47C7-B9C9-C959EB101AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08742482-08BD-47C7-B9C9-C959EB101AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08742482-08BD-47C7-B9C9-C959EB101AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B17BEED-703A-4704-922B-0C27F19E06B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B17BEED-703A-4704-922B-0C27F19E06B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B17BEED-703A-4704-922B-0C27F19E06B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B17BEED-703A-4704-922B-0C27F19E06B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
